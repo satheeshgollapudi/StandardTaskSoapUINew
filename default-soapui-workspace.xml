@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="Projects" soapui-version="5.7.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="ReqRes">C:/Users/gskum/OneDrive/Desktop/Documents/REST-Project-1-soapui-project.xml</con:project>
+  <con:project name="PetStore">C:/Users/gskum/OneDrive/Desktop/Documents/PetStore-soapui-project.xml</con:project>
+  <con:project name="Dog">C:/Users/gskum/OneDrive/Documents/Dog-soapui-project.xml</con:project>
+  <con:project name="numberconversion">C:/Users/gskum/OneDrive/Documents/numberconversion-soapui-project.xml</con:project>
+  <con:project name="CountryInfoService">C:/Users/gskum/OneDrive/Documents/CountryInfoService-soapui-project.xml</con:project>
+  <con:collectInfoForSupport>false</con:collectInfoForSupport>
+</con:soapui-workspace>
